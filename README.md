@@ -1,23 +1,20 @@
 <p align="center">
-    <img width="150" src="https://emmanuel-smith.me/build/img/Logo-Jagfx-2018BG.png" />
+    <img src="banner-github-profile-readme.jpg" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" align="center">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full-stack+web+developper;Open-source+project+lover;ETS2+driver+for+lost+hours"/>
+    <img alt="Discourse status" src="https://img.shields.io/discord/764915323693826059.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge">
+  <a href="mailto:hey@emmanuel-smith.me" align="center">
+    <img alt="Contact" src="https://img.shields.io/badge/Contact-hey%40emmanuel--smith.me-lightgrey?style=for-the-badge">
   </a>
 </p>
-
-<hr/>
-
-## 📊 Github stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
-    <img height="178" alt="JAGFx's Top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGFx&theme=darcula&layout=compact"/>
+    <img height="178" alt="JAGFx's Top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGFx&theme=darcula&layout=compact&hide_border=true&bg_color=1c2648&title_color=6590c3&text_color=fff"/>
   </a>
   <a href="https://git.io/streak-stats" align="right">
-    <img width="450" alt="JAGFx's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JAGFx&theme=dark&hide_border=true"/>
+    <img width="450" alt="JAGFx's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JAGFx&theme=dark&hide_border=true&background=1c2648&stroke=6590c3&ring=6590c3&fire=6590c3&currStreakLabel=6590c3"/>
   </a>
 </p>
 

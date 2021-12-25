@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="banner-github-profile-readme.jpg" />
+    <a href="https://emmanuel-smith.me">
+        <img src="banner-github-profile-readme.jpg" />
+    </a>
 </p>
 
 <p align="center">

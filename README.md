@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-    <img alt="Discourse status" src="https://img.shields.io/discord/764915323693826059.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge">
-  <a href="mailto:hey@emmanuel-smith.me" align="center">
-    <img alt="Contact" src="https://img.shields.io/badge/Contact-hey%40emmanuel--smith.me-lightgrey?style=for-the-badge">
-  </a>
+    <img alt="Discourse status" src="https://img.shields.io/discord/764915323693826059.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square">
+    <a href="mailto:hey@emmanuel-smith.me" align="center">
+        <img alt="Contact" src="https://img.shields.io/badge/email-hey%40emmanuel--smith.me-1e1426?style=flat-square">
+    </a>
+    <a href="https://emmanuel-smith.me" align="center">
+        <img alt="Website" src="https://img.shields.io/badge/www-emmanuel--smith.me-058ec2?style=flat-square">
+    </a>
+</p>
+
+<p align="center">
+    Familiar with client and server technologies, continuous integration and deployment, unit testing and other best practices.<br>
+    Maintainer of an <a title="JAGFx/ets2-dashboard-skin" href="https://github.com/JAGFx/ets2-dashboard-skin">open-source project</a> since April 2020 as well as its related projects
 </p>
 
 <p align="center">
